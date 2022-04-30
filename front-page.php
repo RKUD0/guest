@@ -9,7 +9,7 @@
         <p>新しくWEBサイトを作りたい方から、<br>既存のサイトのリニューアルをしたい方まで様々な<br>WEB制作のご要望にお答えします。</p>
         <p>オンラインでの打ち合わせも可能なので、全国どこでもお受けしております。</p>
         <div class="sv-btn">
-            <a href="<?php echo get_page_link( 10 );?>">詳細はこちらから</a>
+            <a href="<?php echo get_page_link(10); ?>">詳細はこちらから</a>
         </div>
     </div>
     <div class="sv2">
@@ -30,5 +30,5 @@
     </div>
 </div>
 
-
+test
 <?php get_footer(); ?>
