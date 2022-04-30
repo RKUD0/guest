@@ -16,7 +16,7 @@
     <img src="<?php echo get_template_directory_uri(); ?>/assets/img/Chat.png" alt="">
 </div>
 test
-
+test2
 <div class="about">
     <div class="about-con">
         <h2>株式会社<br>Guest</h2>
