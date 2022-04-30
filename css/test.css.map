@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "AACC,AAAA,EAAE,CAAA;EACM,KAAK,EAFF,IAAI;CAGd;;AACD,AAAA,EAAE,CAAA;EACM,KAAK,EALF,IAAI;CAMd;;AACD,AAAA,EAAE,CAAA;EACM,KAAK,EARF,IAAI;CASd",
+    "sources": [
+        "../../../../../../../test/app/public/wp-content/themes/web制作テンプレ/test.scss"
+    ],
+    "names": [],
+    "file": "test.css"
+}
